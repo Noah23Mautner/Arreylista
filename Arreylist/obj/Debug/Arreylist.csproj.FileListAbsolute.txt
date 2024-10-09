@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\Arreylist\bin\Debug\Arreylist.exe.config
+C:\Users\Ucenik\source\repos\Arreylist\bin\Debug\Arreylist.exe
+C:\Users\Ucenik\source\repos\Arreylist\bin\Debug\Arreylist.pdb
+C:\Users\Ucenik\source\repos\Arreylist\obj\Debug\Arreylist.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Arreylist\obj\Debug\Arreylist.Form1.resources
+C:\Users\Ucenik\source\repos\Arreylist\obj\Debug\Arreylist.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Arreylist\obj\Debug\Arreylist.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Arreylist\obj\Debug\Arreylist.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Arreylist\obj\Debug\Arreylist.exe
+C:\Users\Ucenik\source\repos\Arreylist\obj\Debug\Arreylist.pdb
